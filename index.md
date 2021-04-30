@@ -11,11 +11,11 @@ Cette page est vouée à publier et mettre à jour les informations et ressource
 
 
 ---
-[Physique-Chimie](/pc/pc)
+[2de B](/2b)
 
 
 ---
-[Sciences de la Vie et de la Terre](/svt/svt)
+[2de C](/2c)
 
 
 ---
