@@ -5,6 +5,7 @@ Cette page est vouée à publier et mettre à jour les informations et ressource
 ---
 [Tle A](/ta)
 
+[Corrigé de la citation de Manuel Vicent](/ficciones-y-realidades/corriges/Corrige-cita-de-Manuel-Vicent.pdf)
 
 ---
 [Tle C](/tc)
