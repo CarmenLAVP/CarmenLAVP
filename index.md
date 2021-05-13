@@ -3,20 +3,19 @@
 Cette page est vouée à publier et mettre à jour les informations et ressources à destination des auditeurs du Lycée d'Adultes de la Ville de Paris (LAVP). Pour chaque enseignement, l'auditeur de chaque classe - bienvenu sur cette page - accède ici à l'organisation (présentielle ou distancielle), aux dates et horaires des cours, aussi bien qu'aux ressources correspondantes (résumé et fiches de cours, tutoriaux, exercices, et évaluations). Bonne navigation à tous ! 
 
 ---
-[Tle A](/ta)
-
-[Corrigé de la citation de Manuel Vicent](/ficciones-y-realidades/corriges/Corrige-cita-de-Manuel-Vicent.pdf)
-
----
-[Tle C](/tc)
+[Tle A](/tle-a)
 
 
 ---
-[2de B](/2b)
+[Tle C](/tle-c)
 
 
 ---
-[2de C](/2c)
+[2de B](/2de-b)
+
+
+---
+[2de C](/2de-c)
 
 
 ---
@@ -37,6 +36,3 @@ Cliquez sur ce lien pour accéder au cours en direct :
 
 Le calendrier des épreuves écrites du baccalauréat est publié et mis-à-jour sur le site du [LAVP](https://www.lyceedadultes.fr/sitepedagogique/lmapolaccueil.html). A défaut d'information supplémentaire regardant le déroulé des épreuves dans le contexte sanitaire actuel, les auditeurs sont priés de se préparer à passer cette année les épreuves écrites en format présentiel.
 
-# Informations sanitaires
-
-Retrouvez sur cette page toutes les informations relatives à la pandémie de Covid-19 : [Info Covid-19](/covid/covid).
